@@ -12,7 +12,7 @@ Cada projeto foi feito com restrições básicas, usando apenas variáveis simpl
 ### Projeto 02
 - Objetivo: [Criar um programa para realizar o gerenciamento de loterias especificas. Com a função de calcular quanto deve ser pago para cada ganhador dos prêmios sorteados, assim como quanto será destinado à sorteios futuros e a outros fundos previstos na Constituição.]  
 - Tecnologias: Python básico
-- Observação: projeto maior, mas feito com as mesmas limitações de aprendizado.
+- Observação: projeto maior, mas feito com as mesmas limitações de aprendizado, alem de leves alterações usando funções basicas.
 
 ## Como rodar
 1. Abra o terminal na pasta do projeto desejado.  
