@@ -1,12 +1,19 @@
-# Meu Primeiros Projetos em Python 🐍
+# Meus Projetos de Python
 
-Estes foram meus primeiros exercícios práticos com Python.  
-O objetivo era resolver um problema simples usando apenas conceitos básicos da linguagem.
+Este repositório contém meus primeiros projetos em Python, desenvolvidos durante os estudos iniciais.  
+Cada projeto foi feito com restrições básicas, usando apenas variáveis simples, estruturas de repetição (`for`, `while`) e condicionais (`if/else`).
 
-## 🚀 Tecnologias usadas
-- Python 3
+## Projetos
 
-## 📌 Como executar
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/oWLuks/meu-projeto-python.git
+### Projeto 01
+- Objetivo: [Criar um programa que auxilia o gerenciamento de passagens de onibus, baseado nas respectivas categorias, e respetivos descontos.]  
+- Tecnologias: Python básico
+
+### Projeto 02
+- Objetivo: [Criar um programa para realizar o gerenciamento de loterias especificas. Com a função de calcular quanto deve ser pago para cada ganhador dos prêmios sorteados, assim como quanto será destinado à sorteios futuros e a outros fundos previstos na Constituição.]  
+- Tecnologias: Python básico
+- Observação: projeto maior, mas feito com as mesmas limitações de aprendizado.
+
+## Como rodar
+1. Abra o terminal na pasta do projeto desejado.  
+2. Execute o arquivo `.py` com o Python:
