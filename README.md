@@ -1,6 +1,6 @@
-# Meu Primeiro Projeto em Python 🐍
+# Meu Primeiros Projetos em Python 🐍
 
-Este foi meu primeiro exercício prático com Python.  
+Estes foram meus primeiros exercícios práticos com Python.  
 O objetivo era resolver um problema simples usando apenas conceitos básicos da linguagem.
 
 ## 🚀 Tecnologias usadas
