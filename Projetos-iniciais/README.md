@@ -9,7 +9,7 @@ Cada projeto foi feito com restrições básicas, usando apenas variáveis simpl
 - Objetivo: [Criar um programa que auxilia o gerenciamento de passagens de onibus, baseado nas respectivas categorias, e respetivos descontos.]  
 - Tecnologias: Python básico
 
-### Projeto 02
+### Projeto 01.2
 - Objetivo: [Criar um programa para realizar o gerenciamento de loterias especificas. Com a função de calcular quanto deve ser pago para cada ganhador dos prêmios sorteados, assim como quanto será destinado à sorteios futuros e a outros fundos previstos na Constituição.]  
 - Tecnologias: Python básico
 - Observação: projeto maior, mas feito com as mesmas limitações de aprendizado, alem de leves alterações usando funções basicas.
