@@ -3,7 +3,7 @@
 Este repositório contém meus primeiros projetos em Python, desenvolvidos durante os estudos iniciais.  
 Cada projeto foi feito com restrições básicas, usando apenas variáveis simples, estruturas de repetição (`for`, `while`) e condicionais (`if/else`).
 
-## Projetos
+## Projetos Iniciais
 
 ### Projeto 01
 - Objetivo: [Criar um programa que auxilia o gerenciamento de passagens de onibus, baseado nas respectivas categorias, e respetivos descontos.]  
